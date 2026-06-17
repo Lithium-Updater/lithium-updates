@@ -1,0 +1,58 @@
+{
+  "version": "1.2.2",
+  "url": "https://lithiumlauncher.github.io/updates/Lithium-Launcher-v1.2.2.zip",
+  "changelog": [
+    "Added auto-update engine (no setup.exe needed)",
+    "Added configurable update check URL in Settings",
+    "Added A/B slot update system with elevated swap",
+    "Added in-app remote download & apply (no Inno Setup)",
+    "Added update completion toast notification",
+    "Added update URL input field in Settings",
+    "Fixed all non-working buttons & API duplicate",
+    "Fixed Minecraft version selector",
+    "Added required login system",
+    "Added Launcher News for v1.2.2",
+    "Fixed UI text: Shaders → Custom Shaders",
+    "Removed hero banner overrides",
+    "Added 3D skin viewer (Three.js)",
+    "Added Geyser cross-play proxy",
+    "Added CurseForge integration",
+    "Enhanced DLL injector with retry logic",
+    "Added 35+ in-game overlay mods (F6/Right Shift)",
+    "Added skin system with upload & stealer",
+    "Friends system with mod/skin sharing",
+    "Premium beta features: multi-instance, auto-backup, profiles, crosshair designer, macro recorder"
+  ],
+  "changelogFull": [
+    {
+      "title": "Auto-Update Engine",
+      "desc": "Complete rewrite of the update system. Downloads, extracts, and applies updates entirely in-app using an A/B slot system with elevated swap. No more running setup.exe for updates.",
+      "img": ""
+    },
+    {
+      "title": "In-Game Overlay (F6 / Right Shift)",
+      "desc": "35+ overlay mods including FPS, coordinates, TNT counter, keystrokes, armor status, CPS, day counter, mini-map, and more. Toggle with F6 or Right Shift.",
+      "img": ""
+    },
+    {
+      "title": "Login System",
+      "desc": "Email, Microsoft, Guest, and Code login options. Persistent sessions with auto-login on startup.",
+      "img": ""
+    },
+    {
+      "title": "Skin System",
+      "desc": "9 default skins + custom upload + 3D preview (Three.js) + skin stealer (Premium).",
+      "img": ""
+    },
+    {
+      "title": "Cross-Play Proxy",
+      "desc": "Built-in Geyser proxy lets Bedrock players join any Java server.",
+      "img": ""
+    },
+    {
+      "title": "CurseForge Integration",
+      "desc": "Browse and install addons, texture packs, and shaders directly from CurseForge.",
+      "img": ""
+    }
+  ]
+}
